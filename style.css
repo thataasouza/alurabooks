@@ -1,11 +1,9 @@
-link rel”stylesheet” href”styles.css”>
+@import url("styles/header.css");
+
+:root{
+    (--cor-de-fundo:color: EBECEE;)
+}
 --cor-de-fundo #EBECEE
 body
 
-
     background-color var(--cor-de-fundo);
-
-
-h1 {
-    background-color: white
-}
